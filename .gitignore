@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# React
+dist/
+build/
+
+# AI Models
+*.pth
+*.pt
+*.onnx
+*.h5
+*.keras
+
+# Dataset
+dataset/
+datasets/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
